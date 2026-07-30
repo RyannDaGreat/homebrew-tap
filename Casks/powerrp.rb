@@ -1,6 +1,6 @@
 cask "powerrp" do
-  version "0.1.0"
-  sha256 "a336133f63fd1ab9840ccdbf847f2ea0d995cf89c2e47e402aaf7748ba5ff686"
+  version "0.2.0"
+  sha256 "8e31068876698bc808561be574e6a8f977f318d4d46fdde3fcd6535beea13153"
 
   url "https://github.com/RyannDaGreat/SvelteLib/releases/download/v#{version}/PowerRP-#{version}-arm64.dmg"
   name "PowerRP"
